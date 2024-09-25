@@ -1,4 +1,4 @@
-# Museum Exhibit Zebra Puzzle - Revised Solution and Derivation
+# Museum Exhibit Zebra Puzzle - Solution and Derivation
 
 ## Final Solution (Left to Right)
 
@@ -64,3 +64,4 @@ ___
 11. `Clues 11-12` are really extra hints used to disambiguate various categories.
 
 This derivation uses all clues and uniquely determines the position and attributes of each exhibit.
+
