@@ -1,7 +1,7 @@
 # Museum Exhibit Zebra Puzzle
 
 ## The Scenario
-A museum has a special exhibition with 5 exhibits in a row, each with unique attributes. Your task is to determine the full details of each exhibit using the given clues.
+A museum has a special exhibition with 5 exhibits in a row, each with unique attributes. Your task is to determine the full details of each exhibit using the given clues. A touch of general knowledge helps, but every attribute follows from the clues.
 
 ## Categories
 1. Type of exhibit
@@ -12,17 +12,14 @@ A museum has a special exhibition with 5 exhibits in a row, each with unique att
 
 ## Clues
 1. The exhibit from the Netherlands is immediately to the left of the fossil.
-2. The sculpture is at one of the ends.
-3. The middle exhibit is from the 15th century.
-4. The exhibit featuring an animal is to the left of the one from France.
-5. The painting depicts a place in the Netherlands.
-6. The interactive display is immediately to the right of the exhibit from Mexico.
-7. The first exhibit is from the 19th century.
-8. The exhibit very recently created by NASA is about an abstract concept.
-9. The Aztec artifact is an object that is not at either end.
-10. Vincent van Gogh's work is somewhere to the left of Auguste Rodin's.
-11. The Frenchman is famous for making sculptures of previous century persons.
-12. A T-Rex lived in Cretaceous times in North America.
+2. The middle exhibit is from the 15th century.
+3. The painting, which depicts a Dutch landscape, comes from the Netherlands.
+4. The interactive display is immediately to the right of the exhibit from Mexico.
+5. The exhibit very recently created by NASA in the United States is about an abstract concept.
+6. The Aztec artifact is an object.
+7. Van Gogh's painting dates from the 19th century.
+8. The Frenchman, famous for sculpting people, cast his piece in France in the early 20th century.
+9. The fossil is of a T-Rex that lived during the Cretaceous period; it was excavated in Canada.
 
 
 ## Your Task

@@ -4,64 +4,58 @@
 
 1. `Exhibit A`:
    - Type: Painting
-   - Artist: Vincent van Gogh
+   - Artist/Creator: Vincent van Gogh
    - Subject: Place
    - Time period: 19th century
    - Origin: Netherlands
 
 2. `Exhibit B`:
    - Type: Fossil
-   - Species: Tyrannosaurus Rex
+   - Artist/Creator: Tyrannosaurus Rex (nature)
    - Subject: Animal
    - Time period: Cretaceous
-   - Origin: North America
+   - Origin: Canada
 
 3. `Exhibit C`:
    - Type: Artifact
-   - Creator: Aztec civilization
+   - Artist/Creator: Aztec civilization
    - Subject: Object
    - Time period: 15th century
    - Origin: Mexico
 
 4. `Exhibit D`:
    - Type: Interactive display
-   - Creator: NASA
-   - Subject: Abstract concept (gravity)
+   - Artist/Creator: NASA
+   - Subject: Abstract concept
    - Time period: Contemporary 21st century
    - Origin: United States
 
 5. `Exhibit E`:
    - Type: Sculpture
-   - Artist: Auguste Rodin
+   - Artist/Creator: Auguste Rodin
    - Subject: Person
-   - Time period: 20th century
+   - Time period: Early 20th century
    - Origin: France
 
 ___
 
 ## Step-by-Step Derivation
 
-1. From `Clue 7`, we know the first exhibit is from the 19th century. Only van Gogh's painting fits this.
+1. Bundle the attributes given directly by the clues:
+   - The painting comes from the Netherlands and depicts a place (`Clue 3`).
+   - NASA's exhibit is about an abstract concept, is very recent, and is from the United States (`Clue 5`).
+   - The Aztecs created the artifact, an object (`Clue 6`).
+   - The exhibit from France is a sculpture of a person, cast in the early 20th century (`Clue 8`).
+   - The fossil is a Cretaceous-period T-Rex excavated in Canada (`Clue 9`).
 
-2. `Clue 1` states the Netherlands exhibit (van Gogh's) is immediately left of the fossil. So the fossil must be second.
+2. Identify NASA's exhibit type. The Aztecs made the artifact, so NASA did not. NASA's exhibit is from the United States, so it is not the painting (Netherlands), the fossil (Canada), or the sculpture (France). That leaves the interactive display. By origin elimination, the artifact is the exhibit from Mexico.
 
-3. `Clue 3` tells us the middle exhibit is from the 15th century. This can only be the Aztec artifact.
+3. `Clue 2`: the middle exhibit is from the 15th century. The painting is 19th century (`Clue 7`), the interactive display is very recent (`Clue 5`), the sculpture is early 20th century (`Clue 8`), and the fossil is Cretaceous (`Clue 9`). The artifact is the only exhibit left, so it sits in the middle and dates from the 15th century.
 
-4. `Clue 6` says the interactive display is immediately right of the exhibit from Mexico (Aztec artifact). So the interactive display must be fourth.
+4. `Clue 4`: the interactive display is immediately right of Mexico, so it is fourth. Positions 1, 2, and 5 remain for the painting, fossil, and sculpture. `Clue 1` requires the painting (Netherlands) immediately left of the fossil, and the only adjacent pair left is 1-2. So the painting is first, the fossil second, and the sculpture fifth.
 
-5. By elimination, the sculpture must be last, which is confirmed by `Clue 2` (sculpture at one end).
+5. `Clue 7`: van Gogh made the painting (first), dating it to the 19th century. Rodin, the only creator left, made the sculpture (fifth) — he is the Frenchman of `Clue 8`.
 
-6. `Clue 4` states the exhibit featuring an animal (fossil) is to the left of the one from France (sculpture). This confirms our current arrangement.
+6. The fossil takes the remaining subject: the animal, namely the T-Rex itself.
 
-7. `Clue 10` confirms van Gogh's work is left of Rodin's, matching our arrangement.
-
-8. `Clue 5` confirms the painting (van Gogh's) depicts a place.
-
-9. `Clue 8` tells us NASA's exhibit (the interactive display) is about an abstract concept.
-
-10. `Clue 9` is satisfied as the Aztec artifact is in the middle, not at either end.
-
-11. `Clues 11-12` are really extra hints used to disambiguate various categories.
-
-This derivation uses all clues and uniquely determines the position and attributes of each exhibit.
-
+Every position and attribute is forced by the clues alone, so the solution is unique.
